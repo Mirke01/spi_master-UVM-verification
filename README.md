@@ -13,8 +13,12 @@ This project is structured to provide a clear and organized verification environ
 Repository Contents:
 
 src/: Source code for the SPI Master controller and associated components.
+
 tb/: Testbench files comprising UVM components for both SPI and Wishbone interfaces.
+
 test_cases/: A comprehensive suite of test cases targeting various functionalities and edge cases.
+
 scripts/: Utility scripts for compilation, simulation, and report generation.
+
 docs/: Documentation detailing the setup, usage, and contribution guidelines for the verification environment.
 
