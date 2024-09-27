@@ -1,0 +1,1 @@
+typedef enum int {NEG_MOSI_NEG_MISO, NEG_MOSI_POS_MISO, POS_MOSI_NEG_MISO, POS_MOSI_POS_MISO } trans_type_t;
