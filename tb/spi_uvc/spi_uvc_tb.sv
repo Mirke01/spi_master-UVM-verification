@@ -1,16 +1,3 @@
-//=================================================================================
-//COPYRIGHT 2024 Infineon. All rights reserved.
-//
-//This software is unpublished and remains trade secrets of NoBug Infineon.
-//
-//=================================================================================
-//
-//File: spi_uvc_tb.sv
-//Version:1.0
-//Author: Veljko Miric
-//=================================================================================
-
-
 module spi_uvc_tb;
   
   // Include spi package
