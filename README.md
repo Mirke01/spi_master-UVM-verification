@@ -20,5 +20,5 @@ test_cases/: A comprehensive suite of test cases targeting various functionaliti
 
 scripts/: Utility scripts for compilation, simulation, and report generation.
 
-docs/: Documentation detailing the setup, usage, and contribution guidelines for the verification environment.
+docs/: SPI Master functional specification.
 
