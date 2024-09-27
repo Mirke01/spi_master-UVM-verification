@@ -11,6 +11,7 @@ This project is structured to provide a clear and organized verification environ
 3. Integrated Verification Environment: Integrated the SPI and Wishbone UVCs to create a cohesive verification environment, enabling comprehensive testing of the SPI Master Design Under Test (DUT).
 
 Repository Contents:
+
 src/: Source code for the SPI Master controller and associated components.
 tb/: Testbench files comprising UVM components for both SPI and Wishbone interfaces.
 test_cases/: A comprehensive suite of test cases targeting various functionalities and edge cases.
