@@ -1,16 +1,3 @@
-//=================================================================================
-//COPYRIGHT 2024 Infineon. All rights reserved.
-//
-//This software is unpublished and remains trade secrets of NoBug Infineon.
-//
-//=================================================================================
-//
-//File: spi_interface.sv
-//Version:1.0
-//Author: Veljko Miric
-//=================================================================================
-
-
 interface spi_interface(input clk, rst);
     
     // including the file for data type of spi modes
